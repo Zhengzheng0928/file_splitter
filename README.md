@@ -1,6 +1,7 @@
 # file_splitter
 file_splitter
 File Splitter / 文件分割合并器
+直接用exe即可
 English | 中文说明
 English
 📖 Introduction
